@@ -1,0 +1,1 @@
+im sorry but GitHub wont let me upload the paper side of the server, so set up a paper server and copy the server files to this file, [excluding those who are already there, such as server.properties]
