@@ -1,0 +1,5 @@
+To set up your server go to the "velocity folder" and go to velocity.toml, then open up cmd in windows and type in ipconfig, then copy the ipv4 and do the shortcut ctrl+f. Then type Survival, and change the ip to the ipv4 that you got, keep the port as 25577 [be sure to allowlist the port from firewall] after that do ctrl+s and exit velocity.toml, then go to forwarding.secret and type in random letters [in capital] once you typed it in copy and paste it, next go to the 'survival' folder and click plugins, then look for the bungeeguard folder, then open config.yml, then paste in the text you put in forwarding.secret, make sure it is in the quotes and do ctrl+s, next go to velocity and double-click start.bat, then double-click start.bat in the survival folder.
+
+after that port forward 25565 and 8081 like a normal Minecraft server, and join like one, and congrats
+your eagle x velocity server is complete!
+[for eagle egg eaters users please use offline download]
